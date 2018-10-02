@@ -5,5 +5,5 @@ One Paragraph of project description goes here
 
 #### Dual Color LED Proof of purchase
 
-![Parts] (KogulB.github.io/ProofofPurchases/DualColorLed.jpg)
+![Parts] (https://raw.githubusercontent.com/KogulB/KogulB.github.io/master/ProofofPurchases/DualColorLed.png)
      
