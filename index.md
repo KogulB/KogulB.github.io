@@ -3,5 +3,6 @@
 One Paragraph of project description goes here
 
 
-
-![alt text] C:\Users\kogul\OneDrive\Desktop\School\Fall 2018\Hardware\InkedDual - Color Led 
+#### Dual Color LED Proof of purchase
+ KogulB.github.io/Proof of Purchases/Dual Color Led.jpg
+     
