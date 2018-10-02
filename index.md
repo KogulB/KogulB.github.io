@@ -15,4 +15,4 @@ One Paragraph of project description goes here
 
 #### Rpi 3 and Usb 
 
-![Parts] (https://raw.githubusercontent.com/KogulB/KogulB.github.io/master/ProofofPurchases/UsbandRpi3.PNG)
+![Parts](https://raw.githubusercontent.com/KogulB/KogulB.github.io/master/ProofofPurchases/UsbandRpi3.PNG)
